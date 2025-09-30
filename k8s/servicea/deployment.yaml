@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: servicea
-          image: victorf13/servicea:8d2f733
+          image: victorf13/servicea:ce92554
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
