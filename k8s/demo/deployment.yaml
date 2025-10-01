@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: demo
-          image: victorf13/demo:66ce73b
+          image: victorf13/demo:5d358b9
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
