@@ -1,3 +1,3 @@
 resources:
-  - demo/deployment.yaml
+  - service-test/deployment.yaml
   - service-template/deployment.yaml
